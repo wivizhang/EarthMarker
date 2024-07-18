@@ -1,4 +1,4 @@
-#  EarthMarker: EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension
+#  EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension
 
 Official repository for [EarthMarker](). 
 
