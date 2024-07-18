@@ -12,9 +12,9 @@ Authors: Wei Zhang*, Miaoxin Cai*, Tong Zhang, Yin Zhuang, and Xuerui Mao
 
 
 ##  :sparkles: Introduction
-The first visual prompting MLLM named EarthMarker is proposed. EarthMarker can interpret RS imagery in the multi-turn conversation at different granularity, including image, region, and point levels, significantly catering to the fine-grained interpretation needs for RS imagery. EarthMarker is capable of various RS visual tasks including scene classification, referring object classification, captioning, and relationship analyses, beneficial to make informed decisions in real-world application.
+The first visual prompting MLLM named EarthMarker is proposed. EarthMarker can interpret RS imagery in the multi-turn conversation at different granularity, including image, region, and point levels, significantly catering to the fine-grained interpretation needs for RS imagery. EarthMarker is capable of various RS visual tasks including scene classification, referring object classification, captioning, and relationship analyses, beneficial to making informed decisions in real-world applications.
  <div align="center">
-  <img src="images/examples.png">
+  <img src="VP-example.png">
 </div>
 
 
