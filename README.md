@@ -1,13 +1,13 @@
 #  EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension
 
-Official repository for [EarthMarker](). 
+Official repository for [EarthMarker](https://arxiv.org/abs/2407.13596). 
 
 Authors: Wei Zhang*, Miaoxin Cai*, Tong Zhang, Yin Zhuang, and Xuerui Mao
 * The authors contributed equally to this work.
   
 ## :mega: News
 - The dataset, model, code, and demo are coming soon! :rocket:
-* [2024.07.19]: The paper for EarthMarker is released [arxiv](). :fire::fire:
+* [2024.07.19]: The paper for EarthMarker is released [arxiv](https://arxiv.org/abs/2407.13596). :fire::fire:
 
 
 ##  :sparkles: Introduction
