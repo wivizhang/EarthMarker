@@ -19,7 +19,12 @@ The first visual prompting MLLM named EarthMarker is proposed. EarthMarker can i
 
 ## :bookmark: Citation
 ```bash
-
+@article{zhang2024earthmarker,
+  title={EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension},
+  author={Zhang, Wei and Cai, Miaoxin and Zhang, Tong and Zhuang, Yin and Mao, Xuerui},
+  journal={arXiv preprint arXiv:2407.13596},
+  year={2024}
+}
 ```
 
 ## :memo: Acknowledgment
