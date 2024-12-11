@@ -1,4 +1,4 @@
-#  EarthMarker: A Visual Prompting MLLM for Region-level and Point-level Remote Sensing Imagery Comprehension
+#  EarthMarker:  A Visual Prompting Multi-modal Large Language Model for Remote Sensing
 
 Official repository for [EarthMarker](https://arxiv.org/abs/2407.13596). 
 
