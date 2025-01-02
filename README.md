@@ -1,17 +1,18 @@
 #  EarthMarker:  A Visual Prompting Multi-modal Large Language Model for Remote Sensing
 
-Official repository for [EarthMarker](https://arxiv.org/abs/2407.13596). 
+Official repository for [EarthMarker](https://ieeexplore.ieee.org/document/10817639). 
 
 Authors: Wei Zhang*, Miaoxin Cai*, Tong Zhang, Yin Zhuang, and Xuerui Mao
 * The authors contributed equally to this work.
   
 ## :mega: News
-- The dataset, model, code, and demo are coming soon! :rocket:
-* [2024.07.19]: The paper for EarthMarker is released [arxiv](https://arxiv.org/abs/2407.13596). :fire::fire:
+- [2024.01.02]: We are opening up the entire dataset to the public! :fire:
+- [2024.12.22]: EarthMarker has been accepted to [IEEE TGRS](https://ieeexplore.ieee.org/document/10817639). 🎉 
+* [2024.07.19]: The paper for EarthMarker is released [arxiv](https://arxiv.org/abs/2407.13596). 
 
 
 ##  :sparkles: Introduction
-The first visual prompting MLLM named EarthMarker is proposed. EarthMarker can interpret RS imagery in the multi-turn conversation at different granularity, including image, region, and point levels, significantly catering to the fine-grained interpretation needs for RS imagery. EarthMarker is capable of various RS visual tasks including scene classification, referring object classification, captioning, and relationship analyses, beneficial to making informed decisions in real-world applications.
+A visual prompting MLLM called EarthMarker is proposed in the RS domain for the first time. EarthMarker can comprehend remote sensing (RS) imagery under visual and text joint prompts, and flexibly switch interpretation levels, including image, region, and point levels. More importantly, the proposed EarthMarker fills the gap in visual prompting MLLMs for RS, significantly catering to the fine-grained interpretation needs of RS imagery in real-world applications. EarthMarker is capable of various RS visual tasks including scene classification, referring object classification, captioning, and relationship analyses, which are beneficial to making informed decisions in real-world applications.
  <div align="center">
   <img src="VP-example.png">
 </div>
@@ -21,9 +22,10 @@ The first visual prompting MLLM named EarthMarker is proposed. EarthMarker can i
 ```bash
 @article{zhang2024earthmarker,
   title={EarthMarker: A Visual Prompting Multi-modal Large Language Model for Remote Sensing},
-  author={Zhang, Wei and Cai, Miaoxin and Zhang, Tong and Li, Jun and Zhuang, Yin and Mao, Xuerui},
-  journal={arXiv preprint arXiv:2407.13596},
-  year={2024}
+  author={Zhang, Wei and Cai, Miaoxin and Zhang, Tong and Zhuang, Yin and Li, Jun and Mao, Xuerui},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
