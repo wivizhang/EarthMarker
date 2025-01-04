@@ -4,9 +4,11 @@ Official repository for [EarthMarker](https://ieeexplore.ieee.org/document/10817
 
 Authors: Wei Zhang*, Miaoxin Cai*, Tong Zhang, Yin Zhuang, and Xuerui Mao
 * The authors contributed equally to this work.
+
+
   
 ## :mega: News
-- [2024.01.02]: We are opening up the entire dataset to the public! :fire:
+- [2024.01.02]: The entire dataset is being uploaded, expected to be completed within a week! :fire:
 - [2024.12.22]: EarthMarker has been accepted to [IEEE TGRS](https://ieeexplore.ieee.org/document/10817639). 🎉 
 * [2024.07.19]: The paper for EarthMarker is released [arxiv](https://arxiv.org/abs/2407.13596). 
 
@@ -16,6 +18,9 @@ A visual prompting MLLM called EarthMarker is proposed in the RS domain for the 
  <div align="center">
   <img src="VP-example.png">
 </div>
+
+##  :sparkles: Dataset is being uploaded!
+
 
 
 ## :bookmark: Citation
